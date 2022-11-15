@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\bin\Debug\net6.0\Numbers in Reversed Order.exe
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\bin\Debug\net6.0\Numbers in Reversed Order.deps.json
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\bin\Debug\net6.0\Numbers in Reversed Order.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\bin\Debug\net6.0\Numbers in Reversed Order.dll
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\bin\Debug\net6.0\Numbers in Reversed Order.pdb
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\Numbers in Reversed Order.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\Numbers in Reversed Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\Numbers in Reversed Order.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\Numbers in Reversed Order.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\Numbers in Reversed Order.dll
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\refint\Numbers in Reversed Order.dll
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\Numbers in Reversed Order.pdb
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\Numbers in Reversed Order.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Methods\Numbers in Reversed Order\obj\Debug\net6.0\ref\Numbers in Reversed Order.dll

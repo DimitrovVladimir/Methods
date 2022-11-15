@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\bin\Debug\net6.0\Primes in Given Range.exe
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\bin\Debug\net6.0\Primes in Given Range.deps.json
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\bin\Debug\net6.0\Primes in Given Range.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\bin\Debug\net6.0\Primes in Given Range.dll
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\bin\Debug\net6.0\Primes in Given Range.pdb
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\Primes in Given Range.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\Primes in Given Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\Primes in Given Range.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\Primes in Given Range.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\Primes in Given Range.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\Primes in Given Range.dll
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\refint\Primes in Given Range.dll
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\Primes in Given Range.pdb
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\Primes in Given Range.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Methods\Primes in Given Range\obj\Debug\net6.0\ref\Primes in Given Range.dll
